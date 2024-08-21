@@ -1,0 +1,5 @@
+a=int(input("enter the value of A:"))
+b=int(input("enter the value of B:"))
+print("value of A=",a,"\n value of B=",b)
+(a,b)=(b,a)
+print("value of A=",a,"\n value of B=",b)
